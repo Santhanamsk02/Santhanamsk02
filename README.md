@@ -77,57 +77,12 @@ I enjoy working on:
 
 <br clear="right"/>
 
----
-
 <div align="center">
+🛠️ Technology Arsenal
 
-## 🛠️ Technology Arsenal
+Technologies I use to turn ideas into working products.
 
-*Technologies I use to turn ideas into working products.*
-
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=java,python,javascript"/>
-
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap"/>
-
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=fastapi,django"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
-
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,firebase"/>
-
-### ☁️ Cloud & Deployment
-<img src="https://skillicons.dev/icons?i=vercel,googlecloud"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
-
-### 🤖 AI & Machine Learning
-<img src="https://skillicons.dev/icons?i=python,sklearn"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/MobileNetV2-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/face--api.js-000000?style=for-the-badge&logo=javascript&logoColor=yellow"/>
-
-### 🔧 Developer Tools
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,wordpress"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-
-</div>
-
----
-
+<table width="100%"> <tr> <td width="22%"><b>💻 Languages</b></td> <td><img src="https://skillicons.dev/icons?i=java,python,javascript"/></td> </tr> <tr> <td><b>🎨 Frontend</b></td> <td><img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap"/></td> </tr> <tr> <td><b>⚙️ Backend</b></td> <td> <img src="https://skillicons.dev/icons?i=fastapi,django"/> <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/> </td> </tr> <tr> <td><b>🗄️ Databases</b></td> <td><img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,firebase"/></td> </tr> <tr> <td><b>☁️ Cloud & Deployment</b></td> <td> <img src="https://skillicons.dev/icons?i=vercel,googlecloud"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/> </td> </tr> <tr> <td><b>🤖 AI & Machine Learning</b></td> <td> <img src="https://skillicons.dev/icons?i=python,sklearn"/> <img src="https://img.shields.io/badge/MobileNetV2-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/face--api.js-000000?style=for-the-badge&logo=javascript&logoColor=yellow"/> </td> </tr> <tr> <td><b>🔧 Developer Tools</b></td> <td> <img src="https://skillicons.dev/icons?i=git,github,postman,figma,wordpress"/> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/> </td> </tr> </table> </div>
 <div align="center">
 
 ## 🏗️ What I Build
