@@ -83,68 +83,6 @@ I enjoy working on:
 Technologies I use to turn ideas into working products.
 
 <table width="100%"> <tr> <td width="22%"><b>💻 Languages</b></td> <td><img src="https://skillicons.dev/icons?i=java,python,javascript"/></td> </tr> <tr> <td><b>🎨 Frontend</b></td> <td><img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap"/></td> </tr> <tr> <td><b>⚙️ Backend</b></td> <td> <img src="https://skillicons.dev/icons?i=fastapi,django"/> <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/> </td> </tr> <tr> <td><b>🗄️ Databases</b></td> <td><img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,firebase"/></td> </tr> <tr> <td><b>☁️ Cloud & Deployment</b></td> <td> <img src="https://skillicons.dev/icons?i=vercel,googlecloud"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/> </td> </tr> <tr> <td><b>🤖 AI & Machine Learning</b></td> <td> <img src="https://skillicons.dev/icons?i=python,sklearn"/> <img src="https://img.shields.io/badge/MobileNetV2-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/face--api.js-000000?style=for-the-badge&logo=javascript&logoColor=yellow"/> </td> </tr> <tr> <td><b>🔧 Developer Tools</b></td> <td> <img src="https://skillicons.dev/icons?i=git,github,postman,figma,wordpress"/> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/> </td> </tr> </table> </div>
-<div align="center">
-
-## 🏗️ What I Build
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ Backend Systems
-- Scalable FastAPI architectures
-- RESTful APIs
-- Authentication systems
-- Database-driven applications
-- API integrations
-- Backend automation
-- Production-ready services
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Intelligent Applications
-- AI-powered platforms
-- Machine learning integration
-- Image classification
-- Facial recognition
-- Automated data processing
-- Smart decision systems
-- Real-world AI solutions
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚛️ Modern Frontends
-- React applications
-- Responsive interfaces
-- Component-based architecture
-- Modern UI design
-- Interactive experiences
-- Dashboard applications
-
-</td>
-<td width="50%" valign="top">
-
-### 🏗️ Complete Products
-- Full stack applications
-- Cloud deployment
-- Database architecture
-- AI integration
-- API ecosystems
-- Production workflows
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
 
 ## 🚀 Featured Projects
 
@@ -206,14 +144,6 @@ A geolocation-based civic infrastructure platform designed to help citizens repo
 | Tracking | Real-Time Status |
 | Reporting | Geolocation Based |
 
-**Core Features**
-- 📍 Geolocation-based issue reporting
-- 🤖 AI-powered image classification
-- 🧠 MobileNetV2 integration
-- 📊 87% classification accuracy
-- 🔄 Real-time complaint tracking
-- 🗂️ Category-based issue management
-- 🏙️ Civic infrastructure intelligence
 
 <!-- PROJECT LINK SETUP: Replace # below with your actual project repository or live deployment. -->
 <a href="#">
@@ -276,14 +206,6 @@ An AI-powered online examination proctoring platform using real-time biometric a
 | Verification | Automated |
 | Monitoring | Real-Time |
 
-**Core Features**
-- 👤 Automated identity verification
-- 🧠 Facial recognition using face-api.js
-- 📡 Real-time biometric monitoring
-- 🛡️ Examination fraud reduction
-- ⚡ FastAPI-powered backend
-- ⚛️ Modern React interface
-- 🗄️ MongoDB data architecture
 
 <!-- Add your project link here when available. -->
 
@@ -300,13 +222,6 @@ An AI-powered online examination proctoring platform using real-time biometric a
 
 📍 Chennai, Tamil Nadu &nbsp;|&nbsp; 📅 August 2025 &nbsp;|&nbsp; ⏳ 45 Days
 
-**What I Worked On**
-- 🤖 AI-based document classification
-- ⚙️ Backend development
-- 📄 Automated data extraction
-- 🗂️ Intelligent data categorization
-- ⚡ FastAPI backend modules
-- 🧠 Machine learning integration
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,fastapi,sklearn,mysql"/>
@@ -318,13 +233,6 @@ An AI-powered online examination proctoring platform using real-time biometric a
 **🏢 JB Soft System**
 
 📍 Chennai, Tamil Nadu &nbsp;|&nbsp; 📅 May 2024 – June 2024 &nbsp;|&nbsp; ⏳ 30 Days
-
-**What I Worked On**
-- 📱 Responsive UI components
-- 🎨 Frontend functionality
-- 🧩 Modern web interfaces
-- ⚡ JavaScript interactions
-- 📐 Responsive layouts
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,javascript"/>
@@ -479,18 +387,6 @@ An AI-powered online examination proctoring platform using real-time biometric a
 - [ ] Contribute to Open Source
 - [ ] Become an Exceptional Software Engineer
 
-**Progress**
-
-🚀 Build Production Applications ✅
-🏆 Win Hackathons ✅
-💻 Solve 800+ LeetCode Problems ✅
-🤖 Build AI Applications ✅
-🏗️ Master System Design ⏳
-🌍 Build Large Scale Applications ⏳
-🔓 Contribute to Open Source ⏳
-⭐ Become an Exceptional Software Engineer ⏳
-
----
 
 <div align="center">
 
