@@ -338,8 +338,11 @@ An AI-powered online examination proctoring platform using real-time biometric a
 
 *A snapshot of my development journey.*
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Santhanamsk02&show_icons=true&hide_border=true&count_private=true&theme=transparent&title_color=667EEA&text_color=c9d1d9&icon_color=667EEA"/>
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=Santhanamsk02&layout=pie&langs_count=4&theme=ambient_gradient"/>
+<img width="100%" src="https://github-stats-extended.vercel.app/api?username=Santhanamsk02&rank_icon=github&show_icons=true&include_all_commits=true&theme=ambient_gradient"/>
+
+<br/>
+
+<img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs?username=Santhanamsk02&layout=pie&langs_count=4&theme=ambient_gradient"/>
 
 <br/><br/>
 
