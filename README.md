@@ -47,6 +47,43 @@ My journey combines strong backend engineering with modern frontend experiences 
 
 <div align="center">
 
+## 📊 GitHub Analytics
+
+*A snapshot of my development journey.*
+
+<table>
+<tr>
+<td width="33%" align="center"><img width="100%" src="https://github-stats-extended.vercel.app/api?username=Santhanamsk02&rank_icon=github&show_icons=true&include_all_commits=true&theme=ambient_gradient"/></td>
+<td width="33%" align="center"><img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs?username=Santhanamsk02&layout=pie&langs_count=4&theme=ambient_gradient"/></td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Santhanamsk02&theme=transparent&hide_border=true&ring=667EEA&fire=764BA2&currStreakLabel=667EEA"/>
+
+</div>
+
+<div align="center">
+
+## 📈 Contribution Graph
+
+<img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Santhanamsk02&bg_color=0d1117&color=667eea&line=667eea&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Santhanamsk02/Santhanamsk02/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
+
+<div align="center">
+
 ## 🛠️ Technology Arsenal
 
 *Technologies I use to turn ideas into working products.*
@@ -329,51 +366,6 @@ An AI-powered online examination proctoring platform using real-time biometric a
 - [ ] Build Large Scale Applications
 - [ ] Contribute to Open Source
 - [ ] Become an Exceptional Software Engineer
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
-
-<div align="center">
-
-## 📊 GitHub Analytics
-
-*A snapshot of my development journey.*
-
-<table>
-<tr>
-<td width="33%" align="center"><img width="100%" src="https://github-stats-extended.vercel.app/api?username=Santhanamsk02&rank_icon=github&show_icons=true&include_all_commits=true&theme=ambient_gradient"/></td>
-<td width="33%" align="center"><img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs?username=Santhanamsk02&layout=pie&langs_count=4&theme=ambient_gradient"/></td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Santhanamsk02&theme=transparent&hide_border=true&ring=667EEA&fire=764BA2&currStreakLabel=667EEA"/>
-
-</div>
-
-<div align="center">
-
-## 📈 Contribution Graph
-
-<img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Santhanamsk02&bg_color=0d1117&color=667eea&line=667eea&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<!--
-SETUP: create .github/workflows/snake.yml in this repo with the
-Platane/snk action targeting github_user_name: Santhanamsk02,
-then uncomment the image line below once the workflow has run.
-
-<img src="https://raw.githubusercontent.com/Santhanamsk02/Santhanamsk02/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
--->
-
-🐍 *Snake animation renders here once the GitHub Action workflow is set up.*
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
