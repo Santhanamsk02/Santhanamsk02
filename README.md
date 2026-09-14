@@ -342,7 +342,6 @@ An AI-powered online examination proctoring platform using real-time biometric a
 <tr>
 <td width="33%" align="center"><img width="100%" src="https://github-stats-extended.vercel.app/api?username=Santhanamsk02&rank_icon=github&show_icons=true&include_all_commits=true&theme=ambient_gradient"/></td>
 <td width="33%" align="center"><img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs?username=Santhanamsk02&layout=pie&langs_count=4&theme=ambient_gradient"/></td>
-<td width="33%" align="center"><a href="https://wakatime.com/@Santhanamsk02"><img width="100%" src="https://github-stats-extended.vercel.app/api/wakatime?username=Santhanamsk02&langs_count=8&theme=ambient_gradient" alt="GitHub Stats"/></a></td>
 </tr>
 </table>
 
