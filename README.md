@@ -313,47 +313,54 @@ An AI-powered online examination proctoring platform using real-time biometric a
 
 ---
 
-<div align="center">
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,11,20&height=100&section=header&text=📈%20Developer%20Journey&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
 
-## 📈 Developer Journey
+<sub>✨ A timeline of growth — one milestone at a time. ✨</sub>
+
+<br/> <img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="220"/> <br/> <table> <tr> <td align="center" valign="top" width="19%"> <img src="https://img.shields.io/badge/2023-6C63FF?style=for-the-badge"/> <br/>
+
+🎓<br/> B.Tech Begins <sub>Information Technology<br/>Panimalar Engineering College</sub>
+
+</td> <td align="center" width="1%">
+
+<b>➜</b>
+
+</td> <td align="center" valign="top" width="19%"> <img src="https://img.shields.io/badge/2024-3B82F6?style=for-the-badge"/> <br/>
+
+🎨<br/> Frontend Internship <sub>Responsive UI Development<br/>JB Soft System</sub>
+
+</td> <td align="center" width="1%">
+
+<b>➜</b>
+
+</td> <td align="center" valign="top" width="19%"> <img src="https://img.shields.io/badge/2025-06B6D4?style=for-the-badge"/> <br/>
+
+⚡<br/> Full Stack Era <sub>AI Apps · Hackathon Wins<br/>Software Dev Internship</sub>
+
+</td> <td align="center" width="1%">
+
+<b>➜</b>
+
+</td> <td align="center" valign="top" width="19%"> <img src="https://img.shields.io/badge/2026-F59E0B?style=for-the-badge"/> <br/> <img src="https://img.shields.io/badge/📍_YOU_ARE_HERE-000000?style=flat-square&color=F59E0B"/> <br/>
+
+🚀<br/> Advanced Builder <sub>FastAPI · React · AI Systems<br/>National Hackathons</sub>
+
+</td> <td align="center" width="1%">
+
+<b>➜</b>
+
+</td> <td align="center" valign="top" width="19%"> <img src="https://img.shields.io/badge/2027-FFD700?style=for-the-badge&logoColor=black"/> <br/>
+
+🌟<br/> What's Next <sub>Future Software Engineer<br/>Building at Scale</sub>
+
+</td> </tr> </table> <br/>
+
+Overall Progress
+
+2023 ▰▰▰▰▰▰▰▰▰▰ 2027 <br/> <img src="https://img.shields.io/badge/4%20of%205%20chapters%20complete-80%25-success?style=for-the-badge&logo=git&logoColor=white"/>
 
 </div>
-
-```text
-2023
-│
-├── 🎓 Started B.Tech in Information Technology
-│
-▼
-2024
-│
-├── 🎨 Frontend Development Internship
-├── 💻 Strengthened Web Development Foundations
-│
-▼
-2025
-│
-├── ⚡ Full Stack Development
-├── 🤖 AI Applications
-├── 🏆 Major Hackathon Achievements
-├── 💼 Software Development Internship
-│
-▼
-2026
-│
-├── 🚀 Advanced FastAPI Development
-├── ⚛️ Modern React Applications
-├── 🧠 AI Systems
-├── 🏆 National Hackathons
-├── 🏗️ Advanced Software Development
-│
-▼
-2027
-│
-└── 🚀 Future Software Engineer
-```
-
----
+<div align="center">
 
 <div align="center">
 
