@@ -1,100 +1,79 @@
-<!--
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                     SANDHANA KRISHNAN H — GITHUB PROFILE                    ║
-║                  Full Stack Developer • AI Application Builder              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-
-PROFILE README SETUP:
-Your profile repository name must exactly match your GitHub username:
-
-    Santhanamsk02
-
-Repository:
-https://github.com/Santhanamsk02/Santhanamsk02
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Sandhana%20Krishnan%20H&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Application%20Builder%20%E2%80%A2%20Problem%20Solver&descAlignY=58&animation=fadeIn" width="100%"/>
-
-# 👋 Hey, I'm Sandhana Krishnan
-
-### Building scalable software, intelligent applications, and meaningful digital experiences.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=260&section=header&text=Sandhana%20Krishnan%20H&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20AI%20Application%20Builder%20•%20Problem%20Solver&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%F0%9F%92%BB;FastAPI+Backend+Engineer+%E2%9A%A1;React+Developer+%E2%9A%9B%EF%B8%8F;AI+Application+Builder+%F0%9F%A4%96;Problem+Solver+%F0%9F%A7%A0;Hackathon+Enthusiast+%F0%9F%8F%86;Building+The+Future+With+Code+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=667EEA&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%F0%9F%92%BB;FastAPI+Backend+Engineer+%E2%9A%A1;React+Developer+%E2%9A%9B%EF%B8%8F;AI+Application+Builder+%F0%9F%A4%96;Hackathon+Enthusiast+%F0%9F%8F%86;Building+The+Future+With+Code+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<a href="https://github.com/Santhanamsk02">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/sandhana-krishnan-h">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:santhanakrishnan9360@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://github.com/Santhanamsk02"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/sandhana-krishnan-h"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:santhanakrishnan9360@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Santhanamsk02&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Santhanamsk02&label=PROFILE+VIEWS&color=667EEA&style=for-the-badge"/>
 
 </div>
 
 <br/>
 
----
+<p align="center">
+💡 <i>I don't just write code — I design systems, solve problems, and build products that create impact.</i>
+</p>
 
-
-💡 *I don't just write code.*
-*I design systems, solve problems, and build products that create impact.*
-
-</div>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 ## 🧑‍💻 About Me
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I'm a passionate Full Stack Developer and aspiring AI Application Engineer focused on building modern, scalable, and production-oriented software.
+I'm a passionate **Full Stack Developer** and aspiring **AI Application Engineer** focused on building modern, scalable, and production-oriented software.
 
-My development journey revolves around combining strong backend engineering with modern frontend experiences and intelligent AI-powered capabilities.
+My journey combines strong backend engineering with modern frontend experiences and intelligent, AI-powered capabilities.
 
-I enjoy working on:
+**I enjoy working on:**
 
-- ⚡ Scalable Backend Architectures
-- 🚀 FastAPI Applications
-- 🔗 REST API Development
-- ⚛️ Modern React Applications
-- 🤖 AI-Integrated Web Applications
-- 🧠 Machine Learning Powered Systems
-- 🗄️ Database-Driven Applications
-- 🎨 Responsive User Interfaces
-- 🏗️ Production-Grade Systems
+| | |
+|---|---|
+| ⚡ Scalable Backend Architectures | 🚀 FastAPI Applications |
+| 🔗 REST API Development | ⚛️ Modern React Applications |
+| 🤖 AI-Integrated Web Applications | 🧠 Machine Learning Powered Systems |
+| 🗄️ Database-Driven Applications | 🎨 Responsive User Interfaces |
 
 <br clear="right"/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
+
 <div align="center">
-🛠️ Technology Arsenal
 
-Technologies I use to turn ideas into working products.
+## 🛠️ Technology Arsenal
 
-<table width="100%"> <tr> <td width="22%"><b>💻 Languages</b></td> <td><img src="https://skillicons.dev/icons?i=java,python,javascript"/></td> </tr> <tr> <td><b>🎨 Frontend</b></td> <td><img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap"/></td> </tr> <tr> <td><b>⚙️ Backend</b></td> <td> <img src="https://skillicons.dev/icons?i=fastapi,django"/> <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/> </td> </tr> <tr> <td><b>🗄️ Databases</b></td> <td><img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,firebase"/></td> </tr> <tr> <td><b>☁️ Cloud & Deployment</b></td> <td> <img src="https://skillicons.dev/icons?i=vercel,googlecloud"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/> </td> </tr> <tr> <td><b>🤖 AI & Machine Learning</b></td> <td> <img src="https://skillicons.dev/icons?i=python,sklearn"/> <img src="https://img.shields.io/badge/MobileNetV2-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/face--api.js-000000?style=for-the-badge&logo=javascript&logoColor=yellow"/> </td> </tr> <tr> <td><b>🔧 Developer Tools</b></td> <td> <img src="https://skillicons.dev/icons?i=git,github,postman,figma,wordpress"/> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/> </td> </tr> </table> </div>
+*Technologies I use to turn ideas into working products.*
+
+<table width="100%">
+<tr><td width="22%" align="center"><b>💻 Languages</b></td><td align="center"><img src="https://skillicons.dev/icons?i=java,python,javascript"/></td></tr>
+<tr><td align="center"><b>🎨 Frontend</b></td><td align="center"><img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap"/></td></tr>
+<tr><td align="center"><b>⚙️ Backend</b></td><td align="center"><img src="https://skillicons.dev/icons?i=fastapi,django"/> <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/></td></tr>
+<tr><td align="center"><b>🗄️ Databases</b></td><td align="center"><img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,firebase"/></td></tr>
+<tr><td align="center"><b>☁️ Cloud & Deployment</b></td><td align="center"><img src="https://skillicons.dev/icons?i=vercel,googlecloud"/> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/></td></tr>
+<tr><td align="center"><b>🤖 AI & ML</b></td><td align="center"><img src="https://skillicons.dev/icons?i=python,sklearn"/> <img src="https://img.shields.io/badge/MobileNetV2-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/face--api.js-000000?style=for-the-badge&logo=javascript&logoColor=yellow"/></td></tr>
+<tr><td align="center"><b>🔧 Dev Tools</b></td><td align="center"><img src="https://skillicons.dev/icons?i=git,github,postman,figma,wordpress"/> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/></td></tr>
+</table>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 ## 🚀 Featured Projects
 
 *Serious projects built around real-world problems.*
 
-</div>
+<div align="center">
 
 ### 🏙️ Smart City Civic App
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Smart%20City-AI%20Powered-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Smart%20City-AI%20Powered-667EEA?style=for-the-badge"/>
 
 <br/><br/>
 
@@ -144,17 +123,15 @@ A geolocation-based civic infrastructure platform designed to help citizens repo
 | Tracking | Real-Time Status |
 | Reporting | Geolocation Based |
 
+<a href="#"><img src="https://img.shields.io/badge/View_Project-667EEA?style=for-the-badge&logo=github"/></a>
 
-<!-- PROJECT LINK SETUP: Replace # below with your actual project repository or live deployment. -->
-<a href="#">
-  <img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github"/>
-</a>
+<br/>
 
-<br/><br/>
-
-### 🧠 Face Recognition Proctoring Test Platform
+---
 
 <div align="center">
+
+### 🧠 Face Recognition Proctoring Test Platform
 
 <img src="https://img.shields.io/badge/AI%20Proctoring-Intelligent%20Monitoring-8A2BE2?style=for-the-badge"/>
 
@@ -206,10 +183,7 @@ An AI-powered online examination proctoring platform using real-time biometric a
 | Verification | Automated |
 | Monitoring | Real-Time |
 
-
-<!-- Add your project link here when available. -->
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 <div align="center">
 
@@ -217,28 +191,30 @@ An AI-powered online examination proctoring platform using real-time biometric a
 
 </div>
 
+<table width="100%">
+<tr>
+<td width="50%" valign="top" align="center">
+
 ### ⚡ Software Development Intern
 **🏢 MPS Software Solution**
-
 📍 Chennai, Tamil Nadu &nbsp;|&nbsp; 📅 August 2025 &nbsp;|&nbsp; ⏳ 45 Days
 
-
-<div align="center">
 <img src="https://skillicons.dev/icons?i=python,fastapi,sklearn,mysql"/>
-</div>
 
-<br/>
+</td>
+<td width="50%" valign="top" align="center">
 
 ### 🎨 Frontend Developer Intern
 **🏢 JB Soft System**
+📍 Chennai, Tamil Nadu &nbsp;|&nbsp; 📅 May – June 2024 &nbsp;|&nbsp; ⏳ 30 Days
 
-📍 Chennai, Tamil Nadu &nbsp;|&nbsp; 📅 May 2024 – June 2024 &nbsp;|&nbsp; ⏳ 30 Days
-
-<div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,javascript"/>
-</div>
 
----
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 <div align="center">
 
@@ -248,38 +224,14 @@ An AI-powered online examination proctoring platform using real-time biometric a
 
 <table>
 <tr>
-<td align="center" width="33%">
-
-🥇<br/>**1st Place**<br/><br/>Cipher Clash Coding Contest<br/><br/>*Panimalar Engineering College*
-
-</td>
-<td align="center" width="33%">
-
-🥈<br/>**Runner-Up**<br/><br/>HPL Hackathon<br/><br/>*Hexaware Siruseri Campus*<br/><br/>💰 ₹25,000 Cash Reward
-
-</td>
-<td align="center" width="33%">
-
-🥈<br/>**1st Runner-Up**<br/><br/>Hexaware HAIL Hackathon<br/><br/>*Saveetha Engineering College*<br/><br/>💰 ₹2,000 Cash Reward
-
-</td>
+<td align="center" width="33%">🥇<br/><b>1st Place</b><br/><br/>Cipher Clash Coding Contest<br/><br/><i>Panimalar Engineering College</i></td>
+<td align="center" width="33%">🥈<br/><b>Runner-Up</b><br/><br/>HPL Hackathon<br/><br/><i>Hexaware Siruseri Campus</i><br/><br/>💰 ₹25,000 Cash Reward</td>
+<td align="center" width="33%">🥈<br/><b>1st Runner-Up</b><br/><br/>Hexaware HAIL Hackathon<br/><br/><i>Saveetha Engineering College</i><br/><br/>💰 ₹2,000 Cash Reward</td>
 </tr>
 <tr>
-<td align="center" width="33%">
-
-🏅<br/>**Finalist**<br/><br/>Genetrix — 24-Hour National Hackathon<br/><br/>*St. Joseph Engineering College*
-
-</td>
-<td align="center" width="33%">
-
-🏅<br/>**Finalist**<br/><br/>TetHex — 24-Hour Hackathon<br/><br/>*VIT Chennai*
-
-</td>
-<td align="center" width="33%">
-
-💻<br/>**800+**<br/><br/>Problems Solved<br/><br/>*LeetCode — Problem Solving • DSA*
-
-</td>
+<td align="center" width="33%">🏅<br/><b>Finalist</b><br/><br/>Genetrix — 24-Hour National Hackathon<br/><br/><i>St. Joseph Engineering College</i></td>
+<td align="center" width="33%">🏅<br/><b>Finalist</b><br/><br/>TetHex — 24-Hour Hackathon<br/><br/><i>VIT Chennai</i></td>
+<td align="center" width="33%">💻<br/><b>800+</b><br/><br/>Problems Solved<br/><br/><i>LeetCode — DSA</i></td>
 </tr>
 </table>
 
@@ -291,7 +243,7 @@ An AI-powered online examination proctoring platform using real-time biometric a
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 <div align="center">
 
@@ -305,62 +257,48 @@ An AI-powered online examination proctoring platform using real-time biometric a
 </tr>
 <tr>
 <td align="center" colspan="2">⚛️ <b>Infosys Springboard</b><br/>React JS</td>
-<td align="center">💻 <b>Sololearn</b><br/>JavaScript — Beginner & Intermediate</td>
+<td align="center">💻 <b>Sololearn</b><br/>JavaScript — Beginner &amp; Intermediate</td>
 </tr>
 </table>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,11,20&height=100&section=header&text=📈%20Developer%20Journey&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,11,20&height=100&section=header&text=📈%20Developer%20Journey&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
 
 <sub>✨ A timeline of growth — one milestone at a time. ✨</sub>
 
-<br/> <img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="220"/> <br/> <table> <tr> <td align="center" valign="top" width="19%"> <img src="https://img.shields.io/badge/2023-6C63FF?style=for-the-badge"/> <br/>
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="220"/>
+<br/>
 
-🎓<br/> B.Tech Begins <sub>Information Technology<br/>Panimalar Engineering College</sub>
+<table>
+<tr>
+<td align="center" valign="top" width="19%"><img src="https://img.shields.io/badge/2023-6C63FF?style=for-the-badge"/><br/>🎓<br/>B.Tech Begins<br/><sub>Information Technology<br/>Panimalar Engineering College</sub></td>
+<td align="center" width="1%"><b>➜</b></td>
+<td align="center" valign="top" width="19%"><img src="https://img.shields.io/badge/2024-3B82F6?style=for-the-badge"/><br/>🎨<br/>Frontend Internship<br/><sub>Responsive UI Development<br/>JB Soft System</sub></td>
+<td align="center" width="1%"><b>➜</b></td>
+<td align="center" valign="top" width="19%"><img src="https://img.shields.io/badge/2025-06B6D4?style=for-the-badge"/><br/>⚡<br/>Full Stack Era<br/><sub>AI Apps · Hackathon Wins<br/>Software Dev Internship</sub></td>
+<td align="center" width="1%"><b>➜</b></td>
+<td align="center" valign="top" width="19%"><img src="https://img.shields.io/badge/2026-F59E0B?style=for-the-badge"/><br/><img src="https://img.shields.io/badge/📍_YOU_ARE_HERE-000000?style=flat-square&color=F59E0B"/><br/>🚀<br/>Advanced Builder<br/><sub>FastAPI · React · AI Systems<br/>National Hackathons</sub></td>
+<td align="center" width="1%"><b>➜</b></td>
+<td align="center" valign="top" width="19%"><img src="https://img.shields.io/badge/2027-FFD700?style=for-the-badge&logoColor=black"/><br/>🌟<br/>What's Next<br/><sub>Future Software Engineer<br/>Building at Scale</sub></td>
+</tr>
+</table>
 
-</td> <td align="center" width="1%">
+<br/>
 
-<b>➜</b>
+**Overall Progress**
 
-</td> <td align="center" valign="top" width="19%"> <img src="https://img.shields.io/badge/2024-3B82F6?style=for-the-badge"/> <br/>
-
-🎨<br/> Frontend Internship <sub>Responsive UI Development<br/>JB Soft System</sub>
-
-</td> <td align="center" width="1%">
-
-<b>➜</b>
-
-</td> <td align="center" valign="top" width="19%"> <img src="https://img.shields.io/badge/2025-06B6D4?style=for-the-badge"/> <br/>
-
-⚡<br/> Full Stack Era <sub>AI Apps · Hackathon Wins<br/>Software Dev Internship</sub>
-
-</td> <td align="center" width="1%">
-
-<b>➜</b>
-
-</td> <td align="center" valign="top" width="19%"> <img src="https://img.shields.io/badge/2026-F59E0B?style=for-the-badge"/> <br/> <img src="https://img.shields.io/badge/📍_YOU_ARE_HERE-000000?style=flat-square&color=F59E0B"/> <br/>
-
-🚀<br/> Advanced Builder <sub>FastAPI · React · AI Systems<br/>National Hackathons</sub>
-
-</td> <td align="center" width="1%">
-
-<b>➜</b>
-
-</td> <td align="center" valign="top" width="19%"> <img src="https://img.shields.io/badge/2027-FFD700?style=for-the-badge&logoColor=black"/> <br/>
-
-🌟<br/> What's Next <sub>Future Software Engineer<br/>Building at Scale</sub>
-
-</td> </tr> </table> <br/>
-
-Overall Progress
-
-2023 ▰▰▰▰▰▰▰▰▰▰ 2027 <br/> <img src="https://img.shields.io/badge/4%20of%205%20chapters%20complete-80%25-success?style=for-the-badge&logo=git&logoColor=white"/>
+2023 ▰▰▰▰▰▰▰▰▰▰ 2027
+<img src="https://img.shields.io/badge/4%20of%205%20chapters%20complete-80%25-success?style=for-the-badge&logo=git&logoColor=white"/>
 
 </div>
-<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 <div align="center">
 
@@ -368,20 +306,18 @@ Overall Progress
 
 <table>
 <tr>
-<td align="center" width="33%">⚡<br/><b>Advanced FastAPI</b><br/>Architecture & Patterns</td>
+<td align="center" width="33%">⚡<br/><b>Advanced FastAPI</b><br/>Architecture &amp; Patterns</td>
 <td align="center" width="33%">🤖<br/><b>AI Applications</b><br/>Intelligent Software</td>
 <td align="center" width="33%">🏗️<br/><b>System Design</b><br/>Scalable Architecture</td>
 </tr>
 <tr>
-<td align="center">📡<br/><b>Backend Systems</b><br/>Performance & Scalability</td>
+<td align="center">📡<br/><b>Backend Systems</b><br/>Performance &amp; Scalability</td>
 <td align="center">☁️<br/><b>Cloud Deployment</b><br/>Production Applications</td>
 <td align="center">🧠<br/><b>Machine Learning</b><br/>Application Integration</td>
 </tr>
 </table>
 
 </div>
-
----
 
 ## 🎯 Current Goals
 
@@ -394,6 +330,7 @@ Overall Progress
 - [ ] Contribute to Open Source
 - [ ] Become an Exceptional Software Engineer
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 <div align="center">
 
@@ -401,85 +338,40 @@ Overall Progress
 
 *A snapshot of my development journey.*
 
-<!-- If any third-party GitHub statistics service is temporarily unavailable, the image may fail to load. GitHub profile stats are generated by external services and availability can vary. -->
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Santhanamsk02&show_icons=true&hide_border=true&count_private=true&theme=transparent&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhanamsk02&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Santhanamsk02&show_icons=true&hide_border=true&count_private=true&theme=transparent&title_color=667EEA&text_color=c9d1d9&icon_color=667EEA"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhanamsk02&layout=compact&hide_border=true&theme=transparent&title_color=667EEA&text_color=c9d1d9"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Santhanamsk02&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Santhanamsk02&theme=transparent&hide_border=true&ring=667EEA&fire=764BA2&currStreakLabel=667EEA"/>
 
 </div>
-
----
 
 <div align="center">
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Santhanamsk02&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Santhanamsk02&bg_color=0d1117&color=667eea&line=667eea&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
-
----
 
 <div align="center">
 
 ## 🐍 Contribution Snake
 
-<!-- ═══════════════════════════════════════════════════════════════
-CONTRIBUTION SNAKE SETUP
-═══════════════════════════════════════════════════════════════
+<!--
+SETUP: create .github/workflows/snake.yml in this repo with the
+Platane/snk action targeting github_user_name: Santhanamsk02,
+then uncomment the image line below once the workflow has run.
 
-STEP 1: Create this file in your profile repository:
-        .github/workflows/snake.yml
+<img src="https://raw.githubusercontent.com/Santhanamsk02/Santhanamsk02/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+-->
 
-STEP 2: Paste the following GitHub Actions workflow:
-
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Santhanamsk02
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: Push Snake
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-STEP 3: Commit and push the workflow.
-
-STEP 4: After GitHub Actions runs successfully, uncomment the image below.
-
-IMPORTANT: Make sure your GitHub username remains: Santhanamsk02
-═══════════════════════════════════════════════════════════════ -->
-
-<!-- <img src="https://raw.githubusercontent.com/Santhanamsk02/Santhanamsk02/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/> -->
-
-🐍 *Generate the snake animation using GitHub Actions (see setup comment above).*
+🐍 *Snake animation renders here once the GitHub Action workflow is set up.*
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 <div align="center">
 
@@ -519,8 +411,6 @@ IMPORTANT: Make sure your GitHub username remains: Santhanamsk02
                  └───────────────────────────┘
 ```
 
----
-
 <div align="center">
 
 ## 💡 Development Philosophy
@@ -534,7 +424,7 @@ IMPORTANT: Make sure your GitHub username remains: Santhanamsk02
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 <div align="center">
 
@@ -550,8 +440,6 @@ IMPORTANT: Make sure your GitHub username remains: Santhanamsk02
 </table>
 
 </div>
-
----
 
 <div align="center">
 
@@ -570,7 +458,7 @@ IMPORTANT: Make sure your GitHub username remains: Santhanamsk02
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
 <div align="center">
 
@@ -581,23 +469,15 @@ Let's connect and create something meaningful. 🚀
 
 <br/>
 
-<a href="https://github.com/Santhanamsk02">
-  <img src="https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/sandhana-krishnan-h">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:santhanakrishnan9360@gmail.com">
-  <img src="https://img.shields.io/badge/Send_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://github.com/Santhanamsk02"><img src="https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/sandhana-krishnan-h"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:santhanakrishnan9360@gmail.com"><img src="https://img.shields.io/badge/Send_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
 **⚡ Code. Create. Innovate. Repeat.**
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=32&fontColor=ffffff&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=32&fontColor=ffffff&fontAlignY=70" width="100%"/>
 
 ⭐ *If you like what I'm building, feel free to explore my repositories.*
 🚀 *The journey is just getting started.*
