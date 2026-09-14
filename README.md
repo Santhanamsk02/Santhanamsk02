@@ -355,7 +355,7 @@ An AI-powered online examination proctoring platform using real-time biometric a
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Santhanamsk02&bg_color=0d1117&color=667eea&line=667eea&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Santhanamsk02&bg_color=0d1117&color=667eea&line=667eea&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
